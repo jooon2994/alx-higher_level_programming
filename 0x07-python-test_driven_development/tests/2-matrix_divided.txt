@@ -85,4 +85,3 @@ Traceback (most recent call last):
 ZeroDivisionError: division by zero
 
 Case where either one arguments is missing
-
