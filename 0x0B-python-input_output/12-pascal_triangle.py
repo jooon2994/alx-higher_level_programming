@@ -13,4 +13,4 @@ def pascal_triangle(n):
                 my_list[i][j] = 1
             else:
                 my_list[i][j] = my_list[i-1][j] + my_list[i-1][j-1]
-    return 
+    return my_list
