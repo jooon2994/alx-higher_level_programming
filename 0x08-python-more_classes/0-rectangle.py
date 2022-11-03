@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """
-defines an empty class Rectangle
+module contains of a single class 
 """
 
 
 class Rectangle:
-    """Rectangle class"""
+    """Difines a rectangule"""
     pass
