@@ -5,7 +5,7 @@
 
 
 class Rectangle:
-    """Defines a reactangle"""
+    """Defines a rectangle"""
 
     def __init__(self, width=0, height=0):
         """Initializing of instance data"""
